@@ -3,7 +3,7 @@ package com.marianhello.bgloc.react.headless;
 import android.content.Intent;
 import android.os.Bundle;
 import androidx.annotation.Nullable;
-
+// import android.support.annotation.Nullable;
 import com.facebook.react.HeadlessJsTaskService;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.jstasks.HeadlessJsTaskConfig;
